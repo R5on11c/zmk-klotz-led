@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2023 Cem Aksoylar
+Copyright for portions of project zmk-klotz-led are held by Cem Aksoylar, 2023 as part of project zmk-rgbled-widget.
+All other copyright for project zmk-klotz-led are held by R5on11c, 2024.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
